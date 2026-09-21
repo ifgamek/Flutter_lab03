@@ -1,17 +1,28 @@
 # first_app_ulianov
+Учебный проект по лабораторной работе №3: знакомство с Flutter,
+виджетами и деревом виджетов. Приложение выводит hello world
+на градиентном фоне.
 
-A new Flutter project.
+## автор
+Ульянов Владислав
+Исп-243
 
-## Getting Started
+## стек и версии
+- Flutter 3.47.2 (stable)
+- Dart 3.13.2
+- Платформа: Web (edge)
+- IDE: VS Code
 
-This project is a starting point for a Flutter application.
+## скриншот
+![alt text](img/step_09.png)
 
-A few resources to get you started if this is your first Flutter project:
+## запуск
+1) перейти в папку с программой{cd first_app_ulianov}
+2) запустить в vs code{code .}
+3) при полной заргузке кода прейти в папку Lib в файл main.dart
+4) нажать ctrl+f5 или f5 или run выше функции main
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## что изучили
+- базовые виджеты
+- измененеие цвета фона, текста, а также его размера.
+- инструменты

@@ -14,11 +14,17 @@ void main() {
                 Colors.red,
               ],
               begin: Alignment.topCenter,
-              end : Alignment.bottomCenter,
+              end: Alignment.bottomCenter,
             )),
           ),
           child: Center(
-            child: Text('hello world'),
+            child: Text(
+              'hello world',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 32,
+              ),
+            ),
           ),
         ),
       )),
